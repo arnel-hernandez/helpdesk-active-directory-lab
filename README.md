@@ -45,8 +45,13 @@ Completed:
 - Configure shared folders and permissions
 <img width="899" height="743" alt="4" src="https://github.com/user-attachments/assets/1cc64c5f-8f4b-46c1-a857-c0e3ac5f9653" />
 
-Next Steps:
 - Configure Group Policy
+<img width="881" height="658" alt="password policy" src="https://github.com/user-attachments/assets/fd0cac22-07d1-4dab-92a7-3e4ea5d531f5" />
+
 - Build additional security policies
+<img width="881" height="642" alt="account lockout policy" src="https://github.com/user-attachments/assets/9ca8f16d-bfce-4b8a-a787-6f81d952c9fb" />
+
+Next Steps:
+- Delegate Helpdesk Permissions
 - Document troubleshooting procedures
 - Add helpdesk ticketing system later
