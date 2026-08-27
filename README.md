@@ -29,7 +29,7 @@ Completed:
 - John and Sarah added to Helpdesk-Agents
 - Domain login tested successfully
 - Configure shared folders and permissions
-
+---------------------------------------------------------------------------------------------------------------------------
 - DNS configured
 <img width="1268" height="1005" alt="Screenshot 2026-08-27 010029" src="https://github.com/user-attachments/assets/9970324f-5c0a-40e3-a9db-b4ceafcac89b" />
 
